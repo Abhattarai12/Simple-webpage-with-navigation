@@ -7,6 +7,5 @@ function toogle() {
         document.getElementById('navbar').className = "hide";
     };
     count +=1;
-    console.log(count);
 };
 console.log(count);
